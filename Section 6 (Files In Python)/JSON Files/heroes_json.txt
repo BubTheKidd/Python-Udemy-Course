@@ -1,0 +1,10 @@
+[
+    {
+        "Name": "Spider-Man",
+        "Power": "Spider-Powers"
+    },
+    {
+        "Name": "Batman",
+        "Power": "Money"
+    }
+]

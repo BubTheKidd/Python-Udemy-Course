@@ -1,0 +1,20 @@
+{
+    "friends": [
+        {
+            "name": "Zach",
+            "hobby": "Art"
+        },
+        {
+            "name": "Talon",
+            "hobby": "Wizardry"
+        },
+        {
+            "name": "David",
+            "hobby": "Sonic"
+        },
+        {
+            "name": "Garret",
+            "hobby": "Being Smart"
+        }
+    ]
+}

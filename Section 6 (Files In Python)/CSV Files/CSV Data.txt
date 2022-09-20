@@ -1,0 +1,3 @@
+name,age,university,degree
+Jarod,23,Udemy,joe
+Chloe,19,ISU,cute
